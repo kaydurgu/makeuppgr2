@@ -27,5 +27,11 @@ public class World {
     public String world_recovered(){
         return cov_d[3];
     }
+     @Override
+    public String toString() {
+        return "World{" +
+                "cov_d=" + Arrays.toString(cov_d) +
+                '}';
+    }
 
 }
