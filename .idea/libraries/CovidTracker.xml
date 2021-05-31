@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="CovidTracker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CovidTracker/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CovidTracker/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CovidTracker/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CovidTracker/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CovidTracker/javafx.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CovidTracker/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CovidTracker/jsoup-1.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CovidTracker/CovidTracker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CovidTracker/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CovidTracker/src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
