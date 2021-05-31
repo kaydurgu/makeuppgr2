@@ -5,7 +5,8 @@ To check total cases, death cases and recoveries from covid-19 just press approp
 Information does not refresh automatically, so if you want to know new information, just press appropriate button again
 <br>
 
-![main](https://user-images.githubusercontent.com/57888663/120247029-cca38800-c27a-11eb-98ca-9f8235670582.PNG)
+![12](https://user-images.githubusercontent.com/57888663/120248153-bbf51100-c27e-11eb-8002-5a4e2e03728e.PNG)
+
 
 # Tutorial 
 [Tutorial](https://github.com/kaydurgu/makeuppgr2/blob/master/tutorial.md)
