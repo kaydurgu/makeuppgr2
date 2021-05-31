@@ -38,7 +38,6 @@ First establish javafx library to classpath. Make appropriate modules and write 
 Stage Resizable is false for convenience.
 
 ## Scene Builder
-<br> ![image_logo](https://user-images.githubusercontent.com/60456879/103113723-2f6a7500-4686-11eb-9798-3cf6a16ac8a3.png) <br>
 To make it look like as it is on the image above, we used Scene Builder. You can download scene Builder [here](https://gluonhq.com/products/scene-builder/). We added and adjusted anchorpane, several labels and buttons and downloaded our university logo:)
 Hierarchy is as followes:<br>
 ![image7](https://user-images.githubusercontent.com/60456879/103113669-09dd6b80-4686-11eb-9553-e3897386eb6b.png)<br>
