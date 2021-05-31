@@ -27,5 +27,11 @@ public class KGZ {
     public String KGZ_recovered(){
         return cov_d[3];
     }
+     @Override
+    public String toString() {
+        return "KGZ{" +
+                "cov_d=" + Arrays.toString(cov_d) +
+                '}';
+    }
 
 }
